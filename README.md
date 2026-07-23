@@ -1,1 +1,3 @@
-# Achievement Unlock 🏆
+# dotfiles
+
+Personal configuration files and settings.
